@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://kamau-personal-website.herokuapp.com",
+    "contentApiKey": "eb9a262c8aa723402b27b7acb2"
+  },
+  "production": {
+    "apiUrl": "https://kamau-personal-website.herokuapp.com",
+    "contentApiKey": "eb9a262c8aa723402b27b7acb2"
+  }
+}
