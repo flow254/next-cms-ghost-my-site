@@ -10,7 +10,7 @@ export const defaultPage: ContactPage = {
   id: 'custom-page-contact',
   slug: 'contact',
   url: '/contact',
-  title: 'Contact Us',
+  title: 'Drop me a line',
   custom_excerpt: 'Have a question, suggestion or just want to say hi? Get in touch below',
   form_topics: ['I want to give feedback', 'I want to ask a question'],
   meta_title: 'Contact Us',
